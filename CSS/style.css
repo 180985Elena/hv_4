@@ -1,0 +1,37 @@
+
+body {scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    padding: 50px;
+    width:1200px;
+    }
+
+
+h1{font-size: 60px;
+    background-color:dodgerblue;
+    text-align: right;
+    color:white;}
+
+
+img{width: 200px;
+ border: 3px solid darkgray;
+    background-color:gray;}
+
+
+h2 {color: dodgerblue;}
+
+
+section{background-color: silver;
+    padding: 10px;}
+
+
+li span{color: gold ;}
+
+p span{color:blue;}
+
+li a span{color:black;}
+
+div ol li span{font-style: italic;color:black;}
+
+pre span{color:white;}
+
+
